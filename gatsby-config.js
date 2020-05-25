@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Westend Eye Hospital - Cochin : Cataract, Glaucoma, LASIK, Specatacles, LASER',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Westend Eye Hospital in the heart of Cochin is a superspecialty eye hospital with experienced ophthalmologists. Spectacles, Contact lenses, Cataract, Glaucoma, LASIK and other surgeries are available',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

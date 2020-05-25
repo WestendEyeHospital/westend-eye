@@ -1,70 +1,43 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Westend Eye Hospital - Cochin
+image: /img/westend-background.jpg
+heading: Vision is our Mission
+subheading: Best Eye Hospital in Cochin
 mainpitch:
-  title: Why Kaldi
+  title: Westend Eye Hospitals
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Westend Eye Hospital was founded in 1997 by senior Ophthalmologists Dr Davis Akkara & Dr Ethamma Davis. Currently we have 2 branches in Cochin - one in High Court Junction and another in Kacheripady. We have OPD, spectacles, contact lenses, LASER, cataract phaco surgery, LASIK, glaucoma surgery and more.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Westend Eye Hospital was founded in 1997 by senior Ophthalmologists Dr Davis Akkara & Dr Ethamma Davis. Currently we have 2 branches in Cochin - one in High Court Junction and another in Kacheripady. We have OPD, spectacles, contact lenses, LASER, cataract phaco surgery, LASIK, glaucoma surgery and more.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/cataract.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Cataract is the opacification of the natural lens of the human eye. It can happen in many people in old age. It happens faster in some of us due to diabetes, injuries or other conditions. The good news is that cataracts can now be safely removed through a tiny incision and a transparent artificial lens can be placed to bring your vision back to normal or even better.
+    - image: /img/cornea.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        The Cornea is the outermost clear part of the eye. Many injuries and even infections can happen on the cornea. If you are injured by a small stone, stick or metal piece; immediate eye examination with a slitlamp microscope and some stains can show the area and severity of the injuries. These have to be treated early and monitored carefully to fix the damaged cornea.
+    - image: /img/glaucoma.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Glaucoma is an eye disease where the optic nerve of the eye is damaged, most often by high eye pressure. Tests like Fundus Photography, OCT and HFA are done to diagnose and measure the damage due to glaucoma. It is then treated by eyedrops, LASER or surgery depending on many factors. It is very important for family members of those with glaucoma to get tested for glaucoma.
+    - image: /img/retina.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Retina is the image sensor of the camera that is the human eye. The light focused by the lens falls on the retina and is converted into "bio-electrical" signals that are transmitted to the brain. Diabetes and hypertension are two common systemic diseases that affect the retina along with others. There are also other diseases like ARMD, Retinal detchment, macular hole, CSR and so on. 
+  heading: Westend Eye Hospital Locations
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Westend Eye Hospital has locations in Kacheripady and High Court Junction, Cochin.
 main:
-  heading: Great coffee with no compromises
+  heading: Superspecialty Eye Hospital
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We have expert ophthalmologists and a team to provide the best medical care
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Cataract surgery is done by phacoemulsification with advanced torsional technology
+    image: /img/squint.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: LASIK Laser treatment for short sight is painless and quick
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Glaucoma can be treated by medications or surgery
     image: /img/products-grid1.jpg
 ---

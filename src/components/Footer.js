@@ -5,7 +5,8 @@ import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import youtube from '../img/social/youtube.svg'
+import whatsapp from '../img/social/whatsapp.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -14,7 +15,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Westend Eye Hospital Cochin"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -35,25 +36,16 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+                      <Link className="navbar-item" to="/directions">
+                        Directions
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      <Link className="navbar-item" to="/specialities">
+                        Specialities
                       </Link>
                     </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
+                    
                   </ul>
                 </section>
               </div>
@@ -62,26 +54,36 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Latest Blog Stories
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/team">
+                        Our Team
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contact US
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/gallery">
+                        Gallery
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/WestendEyeHospital">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/WestendEye">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -89,17 +91,24 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/WestendEyeHospital">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="youtube" href="https://www.youtube.com/channel/UCij2uTW4gvbF80lgLlRM_oQ">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={youtube}
+                    alt="YouTube"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="whatsapp" href="https://api.whatsapp.com/send?phone=919446707272">
+                  <img
+                    src={whatsapp}
+                    alt="WhatsApp"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
