@@ -26,7 +26,7 @@ intro:
     
   heading: What we offer
   description: >
-    Best eye care for you
+    Best eye care for you and your family 
 main:
   heading: Vision is our mission
   description: >
