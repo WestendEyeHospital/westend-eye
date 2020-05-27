@@ -22,6 +22,7 @@ Mobile : [+91 94467 07272](+919446707272)
 [Map to Westend Eye Hospital, High Court Branch](https://goo.gl/maps/Ttcgzww2AKvEAuKy9)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.394610327357!2d76.27279821428186!3d9.984225676046316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d576100a765%3A0xdce329bbecdd7e5d!2sWestend%20Eye%20Hospital!5e0!3m2!1sen!2sin!4v1590402564487!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 Phone Number: [+91 0484 235 4452](tel:04842354452)
 
 ### Locations
