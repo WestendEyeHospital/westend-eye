@@ -1,9 +1,10 @@
 ---
-templateKey: 'gallery-page'
+templateKey: gallery-page
 path: /gallery
 title: Gallery Photos of Westend Eye Hospital
 ---
 ### Photos
 
-Coming soon ...
+More photos coming soon ...
 
+![Kacheripady](/img/westend-kacheripady-old.jpg "Kacheripady Branch")
