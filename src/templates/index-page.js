@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        backgroundAttachment: `initial`,  // because fixed doesn't work for iOS backgroundAttachment: `fixed`,
       }}
     >
       <div

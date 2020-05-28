@@ -41,14 +41,12 @@ main:
     alt: Sample image 3
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Capt. Jibin Joseph
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Best eye hospital in Ernakulam. 
+  - author: Fahid Kooloth
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Its the best eye hospital in Cochin. My father's cataract operation for both the eyes were done here. Dr David Akkarra is very knowledgeable, experienced and friendly. The hospital promise look very small - however the equipments are modern and they have flawless procedure which are so quick. Staffs are cordial too. Highly recommended!!👌👌
 full_image: /img/products-full-width.jpg
 
 ---
