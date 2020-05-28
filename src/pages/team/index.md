@@ -8,19 +8,19 @@ description: >-
   Westend Eye Hospital has an amazing team of experienced and skilled ophthalmologists.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dr-davis-j-akkara.jpg
       text: >
         Dr Davis Akkara, DO, MS
-    - image: /img/coffee-gear.png
+    - image: /img/dr-ethamma-davis.jpg
       text: >
         Dr Ethamma Davis, DO 
-    - image: /img/meeting-space.png
+    - image: /img/dr-john-davis-akkara.jpg
       text: >
         Dr John Davis Akkara, MS, FAEH(Glaucoma), FMRF(SRTF)
-    - image: /img/meeting-space.png
+    - image: /img/dr-anju-kuriakose.jpg
       text: >
-        Dr Anju Kuriakose, MS, FAEH(Medical Retina & Uvea)
-    - image: /img/tutorials.png
+        Dr Anju Kuriakose, MS
+    - image: /img/dr-davis-j-akkara.jpg
       text: >
         Dr Teresa Joseph, DO
     

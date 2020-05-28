@@ -2,6 +2,7 @@
 templateKey: 'about-page'
 path: /about
 title: About Westend Eye Hospital
+image: /img/jumbotron.jpg
 ---
 ### How it began
 Westend Eye Hospital was inaugurated in Nov. 1997. Dr. Davis J. Akkara, then Chief Ophthalmologist of Lourdes Hospital, Kochi and his wife, Dr. Ethamma Davis who was earlier working in Lourdes Hospital were in charge of the services of the Westend Eye Hospital. Westend Eye Hospital in Kochi has two divisions such as the OP section at High Court Junction and the Surgical wing with OP facility near Vimalalayam at Kacheripady Junction, Chitoor Road.
