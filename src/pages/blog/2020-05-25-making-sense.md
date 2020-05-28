@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Making sense "
+title: Making sense of Ophthalmology
 date: 2020-05-25T19:21:59.932Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
   coffee tasters, has been revised for the first time this year.
